@@ -1,2 +1,2 @@
 # 6CS003
-Emerging Technologies
+Year 3 module - Emerging Technologies
